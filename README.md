@@ -6,7 +6,8 @@ I am Ketan Prabhakar Polawar,
 💻 Technical Skills:
 Proficient in data science concepts, data mining, and business intelligence
 Hands-on experience with PowerBi and Tableau
-Knowledge of machine learning algorithms and implementation in Python
-Programming languages: Python, C, Java, JavaScript, HTML, CSS, PHP
+Knowledge of machine learning algorithms and implementation in Python.
+
+Programming languages: Python, C, Java, JavaScript, HTML, CSS, PHP,C,
 
 🔗 LinkedIn: linkedin.com/in/ketan-polawar
