@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Ketan Prabhakar Polawar,
-🚀 Passionate Data Science Enthusiast | B.Tech in CSE (Data Science) | Quick Learner | Open to Opportunities
+🚀 Passionate Data Science Enthusiast | pursuing B.Tech in CSE (Data Science) | Quick Learner | Open to Opportunities
 
 💻 Technical Skills:
 Proficient in data science concepts, data mining, and business intelligence
