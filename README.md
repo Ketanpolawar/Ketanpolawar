@@ -10,10 +10,15 @@ Knowledge of machine learning algorithms and implementation in Python.
 
 # Programming languages: 
 Python
+
 C 
+
 Java
+
 JavaScript
+
 HTML
+
 CSS
 
 
