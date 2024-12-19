@@ -3,8 +3,10 @@
 🎓 **Final Year CSE Student Specializing in Data Science**  
 💡 **Innovator | Problem Solver | Tech Enthusiast**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-00b894)](https://polawarketan123.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ketan-polawar)  
+
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%F0%9F%8C%9F-9cf?style=for-the-badge&logo=google-chrome&logoColor=white&color=blueviolet)](https://polawarketan123.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%F0%9F%92%AC-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/ketan-polawar)
+
 
 ---
 
