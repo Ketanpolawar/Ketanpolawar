@@ -1,25 +1,54 @@
-### Hi there 👋
 
-I am Ketan Prabhakar Polawar,
-🚀 Passionate Data Science Enthusiast | pursuing B.Tech in CSE (Data Science) | Quick Learner | Open to Opportunities
+# 👋 Hi there! I'm **Ketan Polawar**  
+🎓 **Final Year CSE Student Specializing in Data Science**  
+💡 **Innovator | Problem Solver | Tech Enthusiast**  
 
-💻 Technical Skills:
-Proficient in data science concepts, data mining, and business intelligence
-Hands-on experience with PowerBi and Tableau
-Knowledge of machine learning algorithms and implementation in Python.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-00b894)](https://polawarketan123.netlify.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ketan-polawar)  
 
-# Programming languages: 
-Python
+---
 
-C 
+## 🚀 About Me  
 
-Java
+🔬 Passionate about leveraging **Data Science** and **AI** to solve real-world challenges.  
+📚 Currently enhancing my skills in **Machine Learning**, **Cloud Computing**, and **Big Data Analytics**.  
+🏆 Achievements include:  
+- **Perfect CGPA (10/10)**  
+- **Departmental Merit Scholarship**  
+- **Patented Innovation**  
 
-JavaScript
+💼 I’ve also worked on developing CRM solutions to streamline customer interactions and enhance business efficiency.
 
-HTML
+🌱 Constantly learning new technologies and tools like **Python**, **Java**, **SQL**, and **R**.
 
-CSS
+---
+
+## 🛠️ Tech Stack  
+
+**Languages**:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+
+**Tools & Frameworks**:  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
 
 
-🔗 LinkedIn:  linkedin.com/in/ketan-polawar
+## 🎯 My Goals  
+
+- Join a vibrant tech organization to contribute to **innovative projects**.  
+- Enhance my expertise in **Generative AI** and **Advanced Data Science** techniques.  
+- Publish research papers and pursue further **patent-worthy innovations**.  
+
+---
+
+## ✨ Fun Fact  
+
+I'm a **hackathon enthusiast** and love **tackling challenging coding problems** in my free time!  
+
